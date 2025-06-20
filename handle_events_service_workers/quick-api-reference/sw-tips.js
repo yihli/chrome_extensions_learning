@@ -1,1 +1,1 @@
-console.log('service worker sw-tips.js loaded');
+console.log('sw-tips.js loaded');
